@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SaRI-KRuPuK
-- 👀 I’m interested in Game, Anime, Film
-- 🌱 I’m currently learning Progamming, Self Development, Investment
+- 👀 I’m interested in "Game, Anime, Film";
+- 🌱 I’m currently learning "Progamming, Self Development, Investment";
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Facebook : Fahmi Rizky 
-                     Instagram : Sari_Krupuk77
+- 📫 How to reach me Facebook : "Fahmi Rizky"; 
+                     Instagram : "Sari_Krupuk77";
 
 
 <!---
